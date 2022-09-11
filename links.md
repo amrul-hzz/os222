@@ -19,6 +19,6 @@ Enter command-line in the search bar and get help text. Makes it easy to look up
 
 <br>
 <hr>
-&copy; {{ site.copyright }} --- Amanda Nurul Izzah --- Version: 1.0.
+{{ site.copyright }} --- Amanda Nurul Izzah --- Version: 1.0.
 <hr>
 <br>
