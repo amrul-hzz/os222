@@ -1,6 +1,6 @@
 ---
 ---
-[HOME](.)/[LINKS](https://amrul-hzz.github.io/os222/links.md)/ [GitHub](https://github.com/amrul-hzz/os222)/[LOG](https://amrul-hzz.github.io/os222/TXT/mylogs.txt)/[TIPS]( )/ [TARBALL]( )
+[HOME](https://github.com/amrul-hzz/os222/blob/master/index.md) / [LINKS](https://github.com/amrul-hzz/os222/blob/master/links.md) / [GitHub](https://github.com/amrul-hzz/os222) / [LOG](https://github.com/amrul-hzz/os222/blob/master/TXT/mylog.txt) / [TIPS]( ) / [TARBALL]( )
 
 # OS22 Webpage
 
