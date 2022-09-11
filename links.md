@@ -14,7 +14,7 @@ permalink: LINKS/
 
 # LINKS
 
-1. [explainshell](https://explainshell.com/#) 
+1. [explainshell](https://explainshell.com/#) <br>
 Enter command-line in the search bar and get help text. Makes it easy to look up command-lines.
 
 <br>
