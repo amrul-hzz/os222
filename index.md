@@ -1,18 +1,8 @@
----
----
-By {{ site.author }}
+[HOME](.)/[LINKS](https://amrul-hzz.github.io/os222/LINKS/)/ [GitHub](https://github.com/amrul-hzz/os222)/[LOG](https://amrul-hzz.github.io/os222/TXT/mylogs.txt)/[TIPS]( )/ [TARBALL]( )
 
-[HOME]({{ site.baseurl }}/) ---
-[LINKS]({{ site.baseurl }}/LINKS/) ---
-[TIPS]({{ site.baseurl }}/TIPS/) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[TARBALL] ---
-[GITHUB]({{ site.githublink }})
+#OS22 Webpage
+
+## It's neither that good looking nor beneficial (yet), but welcome. Things are on the way. 
 
 <hr>
-
-This is {{ site.title }} and I am {{ site.author }}.
-
-This is the way!
-<hr>
-© {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+© {{ site.copyright }} --- Amanda Nurul Izzah --- Version: 1.0.
