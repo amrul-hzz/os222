@@ -4,7 +4,7 @@
 
 # OS222 Webpage
 
-It's neither that good looking nor beneficial (yet), but welcome. Things are on the way. 
+It's neither <i>that</i> good looking nor helpful (yet), but welcome. Things are on the way. 
 
 <hr>
 © {{ site.copyright }} --- Amanda Nurul Izzah --- Version: 1.0.
