@@ -13,7 +13,6 @@ By {{ site.author }}
 
 This is {{ site.title }} and I am {{ site.author }}.
 
-<hr>
-
 This is the way!
+<hr>
 © {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
