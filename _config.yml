@@ -1,0 +1,12 @@
+version: "0027--11-Sep-2022"
+copyright: "2022"
+author: "amrul-hzz"
+title: "Operating Systems 2022-2"
+githublink: "https://github.com/amrul-hzz/os222/"
+myloglink: "/TXT/mylog.txt"
+encoding: UTF-8
+markdown: kramdown
+input: GFM
+hard_wrap: false
+github: [metadata]
+
