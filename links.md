@@ -17,6 +17,11 @@ permalink: LINKS/
 1. [explainshell](https://explainshell.com/#) <br>
 Enter command-line in the search bar and get help text. Makes it easy to look up command-lines.
 
+2. [The mind behind Linux | Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE&t=16s) <br>
+An interview with Linus Torvalds. I found it particularly interesting when Torvalds said that he wasn't a visionary and what he creates, he creates for himself. I vibe with that.
+
+3. [Virtualization Explained](https://www.youtube.com/watch?v=FZR0rG3HKIk) <br>
+Simple explanation of what virtualization does. This is what we'll be doing all semester so I thought I should, at the very least, understand what it is in general.
 <br>
 <hr>
 © {{ site.copyright }} --- Amanda Nurul Izzah --- Version: 1.0.
