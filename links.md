@@ -22,6 +22,12 @@ An interview with Linus Torvalds. I found it particularly interesting when Torva
 
 3. [Virtualization Explained](https://www.youtube.com/watch?v=FZR0rG3HKIk) <br>
 Simple explanation of what virtualization does. This is what we'll be doing all semester so I thought I should, at the very least, understand what it is in general.
+
+4. [Introduction to Cybersecurity](https://www.codecademy.com/learn/introduction-to-cybersecurity) <br>
+A course on cybersecurity. Easy to digest lessons with a few quizzes, good pacing with enough interactivity to keep you engaged. 
+
+5. [Linux Journey](https://linuxjourney.com/) <br>
+A collection of courses on multiple aspects of Linux. Each subtopic comes with exercises and a quiz question.
 <br>
 <hr>
 © {{ site.copyright }} --- Amanda Nurul Izzah --- Version: 1.0.
