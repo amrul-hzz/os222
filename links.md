@@ -28,6 +28,15 @@ A course on cybersecurity. Easy to digest lessons with a few quizzes, good pacin
 
 5. [Linux Journey](https://linuxjourney.com/) <br>
 A collection of courses on multiple aspects of Linux. Each subtopic comes with exercises and a quiz question.
+
+6. [Chmod Calculator](https://chmod-calculator.com/) <br>
+"An awesome Chmod Calculator to convert Linux file permissions between different formats." is what the page says
+about itself. I can confirm that it is, indeed, awesome. Played around with it for a short time, everything suddenly
+became clear, it was as if i was never confused in the first place. Truly enlightening.
+
+7. [C Pointers (With Examples)](https://www.programiz.com/c-programming/c-pointers) <br>
+A simple tutorial on C pointers. The examples given are helpful.
+
 <br>
 <hr>
 © {{ site.copyright }} --- Amanda Nurul Izzah --- Version: 1.0.
