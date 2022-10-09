@@ -37,6 +37,8 @@ became clear, it was as if i was never confused in the first place. Truly enligh
 7. [C Pointers (With Examples)](https://www.programiz.com/c-programming/c-pointers) <br>
 A simple tutorial on C pointers. The examples given are helpful.
 
+8. [Online Hex Converter](https://www.scadacore.com/tools/programming-calculators/online-hex-converter/) <br>
+A free online hex converter. I used it to test out Endians.
 <br>
 <hr>
 © {{ site.copyright }} --- Amanda Nurul Izzah --- Version: 1.0.
