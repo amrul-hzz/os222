@@ -39,6 +39,10 @@ A simple tutorial on C pointers. The examples given are helpful.
 
 8. [Online Hex Converter](https://www.scadacore.com/tools/programming-calculators/online-hex-converter/) <br>
 A free online hex converter. I used it to test out Endians.
+
+9. [Visualization of a fork call in C](https://www.youtube.com/watch?v=QD9YKSg3wCc) <br>
+A video that does exactly what the title says. Always nice to understand the flow of things.
+
 <br>
 <hr>
 © {{ site.copyright }} --- Amanda Nurul Izzah --- Version: 1.0.
