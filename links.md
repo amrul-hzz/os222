@@ -55,7 +55,11 @@ An article that does exactly what the title says. Easy to follow and even comes 
 
 11. [How to Compress and Extract Files Using the tar Command on Linux](https://www.howtogeek.com/248780/how-to-compress-and-extract-files-using-the-tar-command-on-linux/) <br>
 An article that shows you how to compress and extract files using tar. I like that it explains what those letters mean (c, z, v, f, x, and all that stuff).
- 
+
+## Week 08
+12. [Linux From Scratch Book](https://www.linuxfromscratch.org/lfs/view/11.2/index.html) <br>
+THE Book. You should be good to go for Week 08 if you follow the instructions correctly (which I'm not sure I did...oh well)
+  
 <br>
 <hr>
 © {{ site.copyright }} --- Amanda Nurul Izzah --- Version: 1.0.
